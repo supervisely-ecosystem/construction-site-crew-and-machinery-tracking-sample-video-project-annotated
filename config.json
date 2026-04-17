@@ -1,0 +1,12 @@
+{
+    "name": "Pedestrian Crowd Tracking sample video project annotated",
+    "description": "Annotated sample project with videos of pedestrian crowds, captured by a static camera.",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/icon3.png",
+    "icon_cover": true
+}

@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-# Pedestrian Crowd Tracking sample video project annotated
+# Construction Site Crew and Machinery Tracking sample video project annotated
 
 <p align="center">
   <a href="#overview">Overview</a> •
@@ -12,49 +12,45 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated)
-[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated.png)](https://supervisely.com)
-[![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated.png)](https://supervisely.com)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated)
+[![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated.png)](https://supervisely.com)
+[![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated.png)](https://supervisely.com)
 
 </div>
 
 ## Overview
 
-This is an annotated sample project featuring videos of pedestrian crowds captured by a static camera. The project demonstrates object detection and tracking capabilities with pre-annotated masks created using automated annotation tool [Serve Segment Anything 2.1](https://dev.internal.supervisely.com/ecosystem/apps/serve-segment-anything-2?id=330) and [AutoTrack](https://docs.supervisely.com/labeling/labeling-toolbox/videos-3.0#auto-tracking), eliminating the need for manual frame-by-frame annotation. This annotation methodology can be applied to various scenarios - from public spaces monitoring to event management, retail analytics, and urban planning applications.
+This is an annotated sample project featuring videos of construction site activities captured by surveillance cameras. The project demonstrates object detection and tracking capabilities for both construction crew members and heavy machinery with pre-annotated masks created using automated annotation tool [Serve Segment Anything 2.1](https://dev.internal.supervisely.com/ecosystem/apps/serve-segment-anything-2?id=330) and [AutoTrack](https://docs.supervisely.com/labeling/labeling-toolbox/videos-3.0#auto-tracking), eliminating the need for manual frame-by-frame annotation. This annotation methodology can be applied to various construction monitoring scenarios - from safety compliance and productivity tracking to equipment utilization and operational efficiency analysis.
 
-<img src="https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/crowd.png" />
+<img src="https://github.com/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated/releases/download/v1.0.0/construction.png" />
 
 ## Use Cases and Applications
 
-Pedestrian detection and tracking technology has broad applications across multiple industries:
+Construction site monitoring technology with crew and machinery tracking has broad applications across the industry:
 
-**Public Spaces & Transportation**: Airports, train stations, metro terminals - monitor passenger flow, manage queues, optimize crowd movement during peak hours
+**Safety & Compliance**: Monitor worker presence in hazardous zones, PPE usage, and proximity to heavy machinery
 
-**Retail & Commercial**: Shopping malls, stores, supermarkets - track customer patterns, analyze dwell times, optimize layouts and staff allocation
+**Productivity Analysis**: Track worker movement patterns, task duration, and equipment utilization rates
 
-**Events & Entertainment**: Concerts, stadiums, museums - monitor crowd density, manage capacity, improve visitor flow and safety
+**Equipment Management**: Monitor machinery usage, idle time, and optimize allocation across sites
 
-**Cities**: Crosswalks, public parks, parking areas - optimize traffic timing, analyze usage patterns, enhance pedestrian safety
-
-**Security & Safety**: Crowd control, restricted areas, emergency response - detect abnormal behaviors, prevent overcrowding, improve evacuation planning
-
-**Corporate & Institutional**: Offices, universities, hospitals - track occupancy, optimize space utilization, improve operational efficiency
+**Security & Theft Prevention**: Monitor site access, track equipment locations, and detect unauthorized presence
 
 ## How this project helps users
 
 This annotated project provides ready-to-use training or validation data for:
 
-- testing pedestrian detection and tracking algorithms
-- training custom computer vision models for crowd monitoring and analysis
-- validating tracking accuracy and performance in crowded scenes
-- developing crowd density estimation and flow analysis systems
+- testing construction worker and machinery detection and tracking algorithms
+- training custom computer vision models for construction site monitoring and safety analysis
+- validating tracking accuracy and performance in dynamic construction environments
+- developing safety compliance systems and automated alert mechanisms
 
 The pre-annotated data saves hours of manual labeling work and provides a standardized benchmark for development.
 
-<img src="https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/crowddemo.gif" />
+<img src="https://github.com/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated/releases/download/v1.0.0/constructiondemo.gif" />
 
 All annotations are stored in Supervisely format, compatible with the platform's video annotation tools and export options.
 
 ## Download
 
-This project sample in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/project.zip)
+This project sample in Supervisely format: [Download ZIP archive](https://github.com/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated/releases/download/v1.0.0/project.zip)

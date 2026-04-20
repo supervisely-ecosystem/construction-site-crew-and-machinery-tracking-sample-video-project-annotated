@@ -1,12 +1,12 @@
 {
-    "name": "Pedestrian Crowd Tracking sample video project annotated",
-    "description": "Annotated sample project with videos of pedestrian crowds, captured by a static camera.",
+    "name": "Construction Site Crew and Machinery Tracking sample video project annotated",
+    "description": "Annotated sample project with videos of construction site activities, featuring tracking of construction crew members and heavy machinery.",
     "type": "project",
     "categories": [
         "import",
         "videos",
         "project"
     ],
-    "icon": "https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/icon3.png",
+    "icon": "https://github.com/supervisely-ecosystem/construction-site-crew-and-machinery-tracking-sample-video-project-annotated/releases/download/v1.0.0/icon5.png",
     "icon_cover": true
 }

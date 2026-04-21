@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "title": "people",
+            "description": "",
+            "shape": "any",
+            "color": "#07EC7B",
+            "geometry_config": {},
+            "id": 196925,
+            "hotkey": ""
+        },
+        {
+            "title": "heavy mashines",
+            "description": "",
+            "shape": "any",
+            "color": "#6200FF",
+            "geometry_config": {},
+            "id": 196886,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "no-objects",
+            "value_type": "none",
+            "color": "#FF0000",
+            "id": 36418,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": [],
+            "target_type": "all"
+        }
+    ],
+    "projectType": "videos",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}
